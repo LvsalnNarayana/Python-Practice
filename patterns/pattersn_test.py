@@ -275,4 +275,4 @@ if __name__ == "__main__":
         # pattern_17(i)
         # pattern_18(i)
         # pattern_19(i)
-        pattern_20()
+        pattern_9(4)
